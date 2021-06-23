@@ -1,0 +1,7 @@
+C:\Users\HéctorFabián\source\repos\1752rissy\TPDIEjercicio1-Facundo\practico2\practico2\bin\Debug\practico2.exe.config
+C:\Users\HéctorFabián\source\repos\1752rissy\TPDIEjercicio1-Facundo\practico2\practico2\bin\Debug\practico2.exe
+C:\Users\HéctorFabián\source\repos\1752rissy\TPDIEjercicio1-Facundo\practico2\practico2\bin\Debug\practico2.pdb
+C:\Users\HéctorFabián\source\repos\1752rissy\TPDIEjercicio1-Facundo\practico2\practico2\obj\Debug\practico2.csprojAssemblyReference.cache
+C:\Users\HéctorFabián\source\repos\1752rissy\TPDIEjercicio1-Facundo\practico2\practico2\obj\Debug\practico2.csproj.CoreCompileInputs.cache
+C:\Users\HéctorFabián\source\repos\1752rissy\TPDIEjercicio1-Facundo\practico2\practico2\obj\Debug\practico2.exe
+C:\Users\HéctorFabián\source\repos\1752rissy\TPDIEjercicio1-Facundo\practico2\practico2\obj\Debug\practico2.pdb
